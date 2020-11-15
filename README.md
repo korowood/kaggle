@@ -2,7 +2,7 @@
 
 Some kaggle competition
 
-1. predict genres movie with a provided dialogue:
+1. [predict genres movie with a provided dialogue](/made%20hw%202):
 
     The task is to predict the genre of the film by a provided dialogue. We have 20 genres in total. Each film can have several genres (Multilabel classification).
     
